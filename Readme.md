@@ -3,3 +3,5 @@ Requires
 - possibility to upload
 - possibility to download
 - like/dislike every download
+- merge duplicates
+- optional link to store
