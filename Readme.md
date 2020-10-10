@@ -6,3 +6,4 @@ Requires
 - merge duplicates
 - optional link to store
 - apps get uploaded to announcement channel, reference getting saved
+- apps must end with .ipa or .apk
